@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BordaAcademy2023.Homework1.props" />
+</Project>

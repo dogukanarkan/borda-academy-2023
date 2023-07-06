@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LatJlIWKLMaoro5k9/bAtuLWILzE8Mljqu0KiWUmTnOJfXnKlVaL9wpmo3hLJBxZmDFYueFXkE17dTVgJ96iyg==",
+  "success": true,
+  "projectFilePath": "/home/darkan/academy2023training/dotnet/BordaAcademy2023.Homework1/BordaAcademy2023.Homework1.csproj",
+  "expectedPackageFiles": [
+    "/home/darkan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.8/microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",
+    "/home/darkan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/darkan/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/darkan/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/darkan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/darkan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/darkan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
